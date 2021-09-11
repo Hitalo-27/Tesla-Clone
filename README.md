@@ -1,4 +1,4 @@
-## Para rodar o web site basta executar o arquivo java e depois os camandos: 
+## Para rodar o web site basta executar os camandos: 
 
 ### `yarn install`
 
